@@ -7,7 +7,7 @@ This project is the final product of our mentoring efforts, created by a student
 ## Known issues
 1. Cannot create teacher account (due to security concern, awaiting solution)
 2. Some exceptions are not handled, application is easy to crash
-3. Lacking revision on UI, not too user-friendly
+3. Lacking revision of the UI, not too user-friendly
 
 ## To try it out
 As there is no executable file of any kind, you need to compile and run them yourself.
